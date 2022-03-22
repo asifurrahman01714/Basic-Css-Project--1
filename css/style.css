@@ -11,6 +11,8 @@ img {
 ul {
   list-style: none;
 }
+
+/* Instead of overflow use this fix class */
 .fix:before,
 .fix:after {
   content: "";
